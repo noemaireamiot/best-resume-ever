@@ -4,9 +4,9 @@
 name:
   first: Noé
   middle:
-  last: Maire Amiot
-about: Développeur full stack, je suis à la recherche d'un poste de développeur/lead technique, j'aime apporter et partager mes connaissances mais je cherche aussi à apprendre et m'inspirer des personnes qui m'entourent.
-position: Développeur full stack
+  last: Maire-Amiot
+about: Développeur Full Stack enthousiaste, passionné par la création de solutions numériques innovantes.
+position: Développeur Full Stack
 
 birth:
   year: 1995
@@ -16,24 +16,27 @@ birth:
 
 experience:
 - company: STEAMULO
-  position: Développeur full stack
-  timeperiod: Depuis Septembre 2018
-  description: |-
-    Steamulo est une agence qui réalise des projets au forfait, j'ai donc pu au cours de mes 4 ans voir beaucoup de projets et technologies différentes le tout en travaillant en méthodologie agile avec des deadlines assez courte et des livraisons de qualités.\n
-    J'ai eu la chance de voir comment se déroule un projet depuis la conception jusqu'à la mise en production.
+  position: Développeur Full Stack
+  timeperiod: Septembre 2018 - Décembre 2023
+  description: Steamulo est une agence spécialisée dans la réalisation de projets sur-mesure, j'ai acquis une expérience significative au cours de mes 5 années de travail. Cela m'a permis d'être exposé à une variété de projets et de technologies, tout en travaillant selon la méthodologie agile.
   website: https://www.steamulo.com/
 
-- company: Solivers
+- company: SOLIVERS
   position: Stagiaire développeur logiciel
   timeperiod: Avril 2017 - Août 2017
   description: Développement logiciel C#/.NET - Développement Web ASP.NET.
+
+- company: MICRO EROSION
+  position: Stagiaire maintenance en réseau informatique
+  timeperiod: Mai 2014 - Juillet 2014
+  description: Gestion et maintenance du réseau informatique de Micro Erosion.
 
 education:
 - degree: Échange universitaire (4ème année EPITECH)
   timeperiod: Septembre 2017 - Juin 2018
   description: Découverte d'un nouveau pays, d'une nouvelle culture et à travailler en groupe dans un environnement universitaire.
 
-- degree: EPITECH - Expert en Technologies de l’Information
+- degree: EPITECH - Expert en Technologies de l'Information
   timeperiod: Octobre 2015 - Juin 2019
   description: Entrée à EPITECH en deuxième année, j'ai appris à travailler de façon autonome sur des langages comme le C/C++, Python et JavaScript. La troisième année m'a formé à la gestion de projets avec notamment un projet de fin d'étude d'une durée de 3 ans.
   website: https://www.epitech.eu
@@ -45,35 +48,37 @@ education:
 # skill level goes from 0 to 100
 skills:
 - name: HTML5
-  level: 85
-- name: CSS3
-  level: 80
-- name: JavaScript
   level: 90
-- name: TypeScript
+- name: CSS3
   level: 85
+- name: TypeScript
+  level: 90
 - name: Node.js
   level: 85
-- name: PHP
-  level: 80
-- name: Symfony
+- name: React
+  level: 90
+- name: Next.js
   level: 85
+- name: PHP
+  level: 85
+- name: Symfony
+  level: 80
 - name: Docker
   level: 70
 - name: Elasticsearch
   level: 85
 - name: MongoDB
-  level: 70
+  level: 80
 - name: SQL
-  level: 85
+  level: 90
 
 # optional, not all resume templates have hobbies included
+
 contact:
   email: noe.maireamiot@gmail.com
   phone: 0670648780
-  street: 93 rue de Bagnolet
-  city: Paris 20
-  website: noemaireamiot.github.io/noe-maireamiot
+  street: Paris 02
+  website: https://noemaireamiot.com
   github: noemaireamiot
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: fr

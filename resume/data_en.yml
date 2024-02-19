@@ -1,0 +1,84 @@
+/* #*/ export const PERSON = `
+# Any fields left unchanged, please delete so your resume is fully yours!
+
+name:
+  first: Noé
+  middle:
+  last: Maire-Amiot
+about: Enthusiastic Full Stack Developer, passionate about creating innovative digital solutions.
+position: Full-Stack Developer
+
+birth:
+  year: 1995
+  location: Pontarlier
+
+# you may add more experiences by duplicating the template
+
+experience:
+- company: STEAMULO
+  position: Full-Stack Developer
+  timeperiod: September 2018 - December 2023
+  description: Steamulo is an agency specialized in custom project development where I have gained significant experience over my 5 years of work. This has exposed me to a variety of projects and technologies like NodeJS, JavaScript, TypeScript, PHP and more.
+  website: https://www.steamulo.com/
+
+- company: SOLIVERS
+  position: Software developer intern
+  timeperiod: April 2017 - August 2017
+  description: Software development in C#/.NET - Web development in ASP.NET.
+
+- company: MICRO EROSION
+  position: Intern in computer network maintenance
+  timeperiod: May 2014 - July 2014
+  description: Management and maintenance of the computer network at Micro Erosion.
+
+education:
+- degree: Exchange program (4th year at EPITECH)
+  timeperiod: September 2017 - June 2018
+  description: Discovered a new country and culture, gained experience working in a group in an academic environment.
+
+- degree: EPITECH - Information Technology Expert
+  timeperiod: October 2015 - June 2019
+  description: Started at EPITECH in the second year, learned to work independently on languages such as C/C++, Python, and JavaScript. The third year focused on project management, including a 3-year final year project.
+  website: https://www.epitech.eu
+
+- degree: BTS in Computer Science and Networks for Industry and Technical Services
+  timeperiod: September 2013 - June 2015
+  description: Learned C/C++ and object-oriented programming, Acquired skills in system administration and networking during these two years.
+
+# skill level goes from 0 to 100
+skills:
+- name: HTML5
+  level: 90
+- name: CSS3
+  level: 85
+- name: TypeScript
+  level: 90
+- name: Node.js
+  level: 85
+- name: React
+  level: 90
+- name: Next.js
+  level: 85
+- name: PHP
+  level: 85
+- name: Symfony
+  level: 80
+- name: Docker
+  level: 70
+- name: Elasticsearch
+  level: 85
+- name: MongoDB
+  level: 80
+- name: SQL
+  level: 90
+
+# optional, not all resume templates have hobbies included
+contact:
+  email: noe.maireamiot@gmail.com
+  phone: 0670648780
+  street: Paris 02
+  website: https://noemaireamiot.com
+  github: noemaireamiot
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
+lang: en
+`
